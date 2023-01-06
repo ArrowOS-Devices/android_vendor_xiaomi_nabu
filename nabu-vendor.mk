@@ -15,12 +15,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/nabu/proprietary/system_ext/lib/com.qualcomm.qti.ant@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/com.qualcomm.qti.ant@1.0.so \
     vendor/xiaomi/nabu/proprietary/system_ext/lib/libmmosal.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/libmmosal.so \
     vendor/xiaomi/nabu/proprietary/system_ext/lib/libmmparser_lite.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/libmmparser_lite.so \
-    vendor/xiaomi/nabu/proprietary/system_ext/lib/libqdMetaData.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/libqdMetaData.so \
-    vendor/xiaomi/nabu/proprietary/system_ext/lib/rfsa/adsp/libdsp_streamer_qvrcam_receiver.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/rfsa/adsp/libdsp_streamer_qvrcam_receiver.so \
-    vendor/xiaomi/nabu/proprietary/system_ext/lib/rfsa/adsp/libeye_tracking_dsp_sample_skel.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/rfsa/adsp/libeye_tracking_dsp_sample_skel.so \
-    vendor/xiaomi/nabu/proprietary/system_ext/lib/rfsa/adsp/libqvr_cam_dsp_driver_skel.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/rfsa/adsp/libqvr_cam_dsp_driver_skel.so \
-    vendor/xiaomi/nabu/proprietary/system_ext/lib/rfsa/adsp/libqvr_dsp_driver_skel.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/rfsa/adsp/libqvr_dsp_driver_skel.so \
-    vendor/xiaomi/nabu/proprietary/system_ext/lib/rfsa/adsp/libtracker_6dof_skel_8150.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/rfsa/adsp/libtracker_6dof_skel_8150.so \
+    vendor/xiaomi/nabu/proprietary/system_ext/lib/libqdMetaData.system.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/libqdMetaData.system.so \
     vendor/xiaomi/nabu/proprietary/system_ext/lib/vendor.display.color@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/vendor.display.color@1.0.so \
     vendor/xiaomi/nabu/proprietary/system_ext/lib/vendor.display.color@1.1.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/vendor.display.color@1.1.so \
     vendor/xiaomi/nabu/proprietary/system_ext/lib/vendor.display.color@1.2.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/vendor.display.color@1.2.so \
@@ -28,7 +23,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/nabu/proprietary/system_ext/lib64/com.qualcomm.qti.ant@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/com.qualcomm.qti.ant@1.0.so \
     vendor/xiaomi/nabu/proprietary/system_ext/lib64/libmmosal.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libmmosal.so \
     vendor/xiaomi/nabu/proprietary/system_ext/lib64/libmmparser_lite.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libmmparser_lite.so \
-    vendor/xiaomi/nabu/proprietary/system_ext/lib64/libqdMetaData.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libqdMetaData.so \
+    vendor/xiaomi/nabu/proprietary/system_ext/lib64/libqdMetaData.system.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libqdMetaData.system.so \
     vendor/xiaomi/nabu/proprietary/system_ext/lib64/vendor.display.color@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.display.color@1.0.so \
     vendor/xiaomi/nabu/proprietary/system_ext/lib64/vendor.display.color@1.1.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.display.color@1.1.so \
     vendor/xiaomi/nabu/proprietary/system_ext/lib64/vendor.display.color@1.2.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.display.color@1.2.so \
